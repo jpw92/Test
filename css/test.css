@@ -1,33 +1,18 @@
-body{
-	background-color: lightgrey;
+header{
+	background-color: #000099
+	padding: 40px;
+	text-align: center;
 }
 
 h1{
-			color: orange;
-			font-size: 90px;
-			text-decoration: underline;
-		}
+	font-size: 90px;
+	color: white;
+}
 
-		#first{
-			font-size: 150px;
-
-		}
-
-		h2{
-			color: green;
-			font-size: 22px;
-		}
-
-		span{
-			font-style: italic;
-		}
-
-		h2 span{
-
-			text-decoration: line-through;
-		}
-
-		.small{
-			font-size: 12px;
-
-		}
+header img{
+	border-radius: 150px;
+}
+/*<header>
+			<img src="profile.jpg">
+			<h1>King Bradley</h1>
+		</header>*/
